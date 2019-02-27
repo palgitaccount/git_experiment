@@ -2,4 +2,4 @@
 echo "this scipt is from github"
 SUM=$(($NUMBERONE + $NUMBERTWO))
 echo "$SUM"
-echo "this was run automatically"
+echo "this was run automagically"
